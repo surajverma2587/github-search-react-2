@@ -12,3 +12,7 @@ body {
 .banner-img-container {
   height: 260px;
 }
+
+.repo-card {
+  width: 18rem;
+}
